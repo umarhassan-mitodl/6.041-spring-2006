@@ -5,6 +5,8 @@ description: This resource contains information on PMF, total expectation theore
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/0ba32c276891edcfb233b7dd35e2d594_lec06.pdf
 file_size: 179037
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

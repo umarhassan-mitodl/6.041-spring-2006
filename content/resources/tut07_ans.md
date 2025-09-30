@@ -4,6 +4,8 @@ description: This resource contains answers to tutorial seven.
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/74e620a261584cf5d60862e4ae5fc12c_tut07_ans.pdf
 file_size: 55506
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

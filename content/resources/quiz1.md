@@ -4,6 +4,8 @@ description: This resource contains problem set for quiz one.
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/9bcc09608bf8ec85badf5b3c9eba6e30_quiz1.pdf
 file_size: 100874
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

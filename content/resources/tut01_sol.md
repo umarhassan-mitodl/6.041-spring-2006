@@ -4,6 +4,8 @@ description: ''
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/b80f0e70c867b5b903a8ff96cd39ed65_tut01_sol.pdf
 file_size: 59725
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

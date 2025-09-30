@@ -7,6 +7,8 @@ description: 'This resource contains problems on competing exponentials and Pois
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/048bf9aa0d83d6a11ceadd830b3fa93c_rec18.pdf
 file_size: 38058
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: The assignments section contains the the course assignments and solutions.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

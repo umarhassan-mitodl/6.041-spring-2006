@@ -4,6 +4,8 @@ description: This resource contains solutions to problem set in recitaion fourte
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/6eba801ac947d59f08b452fc0cfa911f_rec14_sol.pdf
 file_size: 41573
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

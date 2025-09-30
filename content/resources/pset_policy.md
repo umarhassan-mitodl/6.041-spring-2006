@@ -4,6 +4,8 @@ description: This resource contains problems related to probability.
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/aea734ef4512cb99fbcf2827f2a20428_pset_policy.pdf
 file_size: 79856
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

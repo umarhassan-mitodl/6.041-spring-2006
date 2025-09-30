@@ -4,6 +4,8 @@ description: This resource conatains problems on probability in recitation three
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/cf679648b678b17b7271a20084ecb212_rec03.pdf
 file_size: 45424
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

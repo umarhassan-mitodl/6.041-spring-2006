@@ -4,6 +4,8 @@ description: This resource contains tutorials for the course.
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/4017a2a2a3f2af3dd35ca4aa35b0d4ba_tut07.pdf
 file_size: 44390
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

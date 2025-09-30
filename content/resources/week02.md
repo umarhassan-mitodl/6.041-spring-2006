@@ -5,6 +5,8 @@ description: This resource contains information on discrete random variables, an
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/bc5b2f003e02158bf1b8458509565379_week02.pdf
 file_size: 45356
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

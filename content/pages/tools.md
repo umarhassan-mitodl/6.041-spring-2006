@@ -2,6 +2,8 @@
 content_type: page
 description: The tools section contains simulation files and applets used to reinforce
   the probability concepts covered in the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
@@ -38,14 +40,14 @@ Branching Process Simulation ([ZIP](/ans7870/6/6.041/s06/tools/branching.zip)) (
 Limit Theorems
 --------------
 
-{{% resource_link "d3ad9bf1-11f7-4cf2-9fb4-3fdfaa08e41d" "Die Experiment" %}}  
-{{% resource_link "ca22cf89-b5b3-47ac-873f-58a86a1e4593" "Negative Binomial Experiment" %}}  
-{{% resource_link "645eb065-57bc-4614-b926-47a6fee16bf3" "Galton Board Experiment" %}}
+[Die Experiment](http://www.math.uah.edu/stat/applets/DiceExperiment.html)  
+[Negative Binomial Experiment](http://www.math.uah.edu/stat/bernoulli/NegativeBinomial.html)  
+[Galton Board Experiment](http://www.math.uah.edu/stat/apps/GaltonBoardExperiment.html)
 
 Markov Chains
 -------------
 
-{{% resource_link "18205f22-ad95-4047-900e-311d729ebbad" "Markov Process Demonstration" %}}  
+[Markov Process Demonstration](http://www.netlab.tkk.fi/~esa/java/markov/)  
 Birth-Death Process ([Java](/ans7870/6/6.041/s06/tools/BirthDeathProcess/birthdeath_proc.html))  
 Random Walk Experiment ([Java](/ans7870/6/6.041/s06/tools/RandomWalk/random_walk.html))  
 M/M/m Queues ([Java](/ans7870/6/6.041/s06/tools/Queues/queues.html))

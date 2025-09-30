@@ -5,6 +5,8 @@ description: This resource contains reference to solution for problem set in rec
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/d384b6999a022ef002e6e954c8f1de90_rec01_ans.pdf
 file_size: 26661
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

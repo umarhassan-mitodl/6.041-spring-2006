@@ -5,6 +5,8 @@ description: This resource contains information on PMF, independent random varia
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/9cc8a68ee8c7d8546a1545a74269c220_lec07.pdf
 file_size: 233132
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

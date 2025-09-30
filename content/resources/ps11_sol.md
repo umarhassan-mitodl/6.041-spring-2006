@@ -4,6 +4,8 @@ description: This resource contains solutions to problem set 11.
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/9d2187281a84fe1aa334aaddf5934719_ps11_sol.pdf
 file_size: 59956
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: This resource contains information on probability.
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/742af76fecc70951d06ca0fca77c4b13_lec03.pdf
 file_size: 191395
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

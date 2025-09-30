@@ -4,6 +4,8 @@ description: This resource contains solutions for quiz two.
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/d136415ac4f38b50b4ef7162957d4375_quiz2_sol.pdf
 file_size: 123383
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

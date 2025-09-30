@@ -5,6 +5,8 @@ description: This resource contains dice related problems in probability given i
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/fef685908bf9e3a27fb999c06a818429_rec12.pdf
 file_size: 40568
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

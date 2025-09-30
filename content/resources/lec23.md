@@ -5,6 +5,8 @@ description: This resource contains information on central limit theorem, and bi
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/27693721d2a65e3692fc80c2b16f24b6_lec23.pdf
 file_size: 103873
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

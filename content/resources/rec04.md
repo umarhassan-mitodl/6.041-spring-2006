@@ -4,6 +4,8 @@ description: This resource contains birthday and Sampling problems in recitaion 
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/7f477f38c476aa6dffd5dc8c5c307435_rec04.pdf
 file_size: 33422
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

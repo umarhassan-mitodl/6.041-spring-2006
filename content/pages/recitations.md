@@ -3,6 +3,8 @@ content_type: page
 description: This section contains problems that are solved during recitation and
   tutorial sessions in addition to weekly notes that give an overview of topics to
   be covered.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection

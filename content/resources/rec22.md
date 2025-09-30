@@ -4,6 +4,8 @@ description: This resource contains problems on central limit theorem.
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/66b638d918657e4479bd71181cc8dcb0_rec22.pdf
 file_size: 54505
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

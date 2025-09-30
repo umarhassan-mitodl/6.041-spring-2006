@@ -4,6 +4,8 @@ description: This resource contains information on markov processes ?I.
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/2062077167ce634dd880e9716d36d41c_lec19.pdf
 file_size: 133486
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

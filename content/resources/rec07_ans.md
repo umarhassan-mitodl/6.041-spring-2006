@@ -4,6 +4,8 @@ description: This resource contains answers to problems in resitation seven.
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/751d6dd66aa3d83391de27b2e73f092f_rec07_ans.pdf
 file_size: 48556
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: This resource contains information on derived distributions, convol
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/702ece55b95dfca250975455e03e8f89_week08.pdf
 file_size: 64595
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

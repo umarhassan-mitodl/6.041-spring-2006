@@ -4,6 +4,8 @@ description: This resource contains problem set for recitation nine.
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/f95a743b480794c7f9b00b97f108d551_rec09.pdf
 file_size: 63210
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

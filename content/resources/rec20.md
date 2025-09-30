@@ -4,6 +4,8 @@ description: This resource contains problems on steady state behavior.
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/f409131ae7d528b82639043983cd5ddb_rec20.pdf
 file_size: 64521
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

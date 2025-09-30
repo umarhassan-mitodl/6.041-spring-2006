@@ -5,6 +5,8 @@ description: This resource contains solutions and references to their solutions 
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/6b595ca59d5d2cbb2faf25cfe4a84835_rec03_sol.pdf
 file_size: 47779
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

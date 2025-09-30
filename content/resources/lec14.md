@@ -4,6 +4,8 @@ description: This resource contains information on prediction, covariance and co
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/ae6088f5d8ade5c8bbbe779d8de73fab_lec14.pdf
 file_size: 113878
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

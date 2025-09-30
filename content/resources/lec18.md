@@ -5,6 +5,8 @@ description: This resource contains information on poisson process, and its basi
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/6eac8af8d7614328afe09c90a654bc42_lec18.pdf
 file_size: 111941
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
