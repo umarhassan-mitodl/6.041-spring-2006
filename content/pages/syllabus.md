@@ -5,8 +5,6 @@ description: The syllabus section contains Prerequisites, 6.041 and 6.431, lectu
   homework problems, quizzes and exams, conflict exams, grades, 6.041/6.431 statement
   on collaboration, honesty, etc, additional help from staff members, special personal
   situations.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -64,9 +62,9 @@ Recitation and tutorial assignments will be handled by the Head TA. Scheduling o
 Text
 ----
 
-The text for this course is _Introduction to Probability_, by Bertsekas and Tsitsiklis. Solutions to end-of-chapter problems are also available ([PDF](http://athenasc.com/probsolved.pdf)). We recommend that you print out these solutions. A few of these problems will be covered in recitation and tutorial. The remaining ones can be used for self-study (for best results, always try to solve a problem on your own, before reading the solution).
+The text for this course is _Introduction to Probability_, by Bertsekas and Tsitsiklis. Solutions to end-of-chapter problems are also available ({{% resource_link "426e799a-9b9c-4991-b016-002dde9e387b" "PDF" %}}). We recommend that you print out these solutions. A few of these problems will be covered in recitation and tutorial. The remaining ones can be used for self-study (for best results, always try to solve a problem on your own, before reading the solution).
 
-Bertsekas, Dimitri P., and John N. Tsitsiklis. _Introduction to Probability_. Belmont, MA: [Athena Scientific Press](http://www.athenasc.com/probbook.html), June 2002. ISBN: 188652940X.
+Bertsekas, Dimitri P., and John N. Tsitsiklis. _Introduction to Probability_. Belmont, MA: {{% resource_link "e37c7b6a-15c7-4666-aee7-ef1c8cc72d80" "Athena Scientific Press" %}}, June 2002. ISBN: 188652940X.
 
 Additionally, the following books are useful. They cover many of the topics in this course, although in a different style. You may wish to consult them to get a different perspective on particular topics:
 

@@ -2,8 +2,6 @@
 content_type: page
 description: The readings section contains required text, recommended texts, and readings
   by session for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -16,7 +14,7 @@ Required Text
 
 This section contains the reading assignments from the course textbook:
 
-Bertsekas, Dimitri P., and John N. Tsitsiklis. _Introduction to Probability_. Belmont, MA: [Athena Scientific Press](http://www.athenasc.com/probbook.html), June 2002. ISBN: 188652940X.
+Bertsekas, Dimitri P., and John N. Tsitsiklis. _Introduction to Probability_. Belmont, MA: {{% resource_link "e37c7b6a-15c7-4666-aee7-ef1c8cc72d80" "Athena Scientific Press" %}}, June 2002. ISBN: 188652940X.
 
 Recommended Texts
 -----------------
